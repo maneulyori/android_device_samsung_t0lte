@@ -1,3 +1,5 @@
+**Patched for ubuntu phone build**
+
 Samsung Galaxy Note 2 LTE (GSM)
 
 Supported variants:
